@@ -1,0 +1,187 @@
+---
+title: "Voyages en Humanités Numériques"
+subtitle: "d'un technicien de bibliothèque"
+author: 
+  - name: Julien Rabaud
+    orcid: 0000-0002-6604-9777
+    email: julien.rabaud@univ-pau.fr
+    affiliations:
+      - name: SCD, Bibliothèque de recherche - Mathématiques appliquées, IPRA
+        url: https://bibliotheques.univ-pau.fr/fr/infos-pratiques/pau/bibliotheque-de-recherche-de-l-ipra.html
+      - name: CSP-NR, Gestion des données de la recherche
+        url: https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html
+date: 2025-03-25
+lang: fr
+format: 
+  revealjs :
+    theme: solarized
+    transition: slide
+    css: perso.css
+    slide-level: 3
+    slide-number: h.v
+    center: true
+    scrollable: true
+logo: images/logoUPPA-RepFr.png
+footer: "Julien Rabaud - Présentation M1 LiLAC - 2025"
+link-external-icon: true
+link-external-newwindow: true
+---
+
+## Parcours (CV)
+
+### Scolarité
+
+- Bac ES spécialité maths (Albi)
+  - *Allemand Latin Grec* 
+- CPGE commerce (Toulouse) -- 1^ere^ année 
+- IEP Grenoble - 3 ans (non diplomé)
+- DUT Info-Com option métiers du livre (Aix-en-Provence)
+
+### Médiathèque municipale de Lescure d'Albigeois (Tarn)
+
+::: {.smaller}
+- Emploi-jeune *Agent des nouvelles technologies* : 2 ans et demi
+- Titularisé *Agent du Patrimoine*: 4 mois
+:::
+
+- Documentaires adulte et jeunesse, fonds BD, musiques actuelles
+- Accueil de classes [(une par semaine)]{.smaller}
+- Salon du livre jeunesse de l'Albigeois [(Librairie jeunesse)]{.smaller}
+- *Contes en Ballades* [(Bibliothèque départementale)]{.smaller}
+- Création d'un fonds *Jardins* [(Village de maraîchers)]{.smaller}
+
+:::{.smaller}
+- Reçu au concours de *Bibliothécaire Adjoint Spécialisé*
+:::        
+
+### Bibliothèque Générale (puis *Patrimoniale*) du *Collège de France*
+
+- Formateur *Zotero* [(6 à 8 formations par an pendant 8 ans)]{.smaller}
+- Création d'une [base Zotero des publications](https://www.zotero.org/ramus_cdf) des équipes du Collège de France
+  - [Collaboration Service Bibliométrie (repérage IPERU), Service des éditions ([Annuaire](https://journals.openedition.org/annuaire-cdf/)) et Service Web (affichage des publications sur le site public) -- Création de 2 [styles CSL](https://docs.citationstyles.org/en/stable/primer.html), pour l'Annuaire et pour le site web]{.smaller}
+- Séminaires du programme *Passage des disciplines*
+  - [[Présentation](https://www.college-de-france.fr/fr/presentation-1) - [Collection de livres](https://books.openedition.org/cdf/5398)]{.smaller}
+- Conseil métadonnées pour la revue [*Entre Temps*](https://entre-temps.net)
+  - [[Adrien Genoudet](https://fr.wikipedia.org/wiki/Adrien_Genoudet) / Patrick Boucheron]{.smaller}
+
+### SCD de l'UPPA
+
+- BU Sciences (1 an - fermeture)
+- Service d'appui à la recherche 
+  - projet HAL-UPPA
+  - Projet Blot (Tropy/OmekaS)
+  - Livres d'artistes pour la jeunesse (Isabelle Guillaume)
+
+### SCD de l'UPPA (Suite)
+
+- Responsable BR mathématiques appliquées (IPRA)
+- Détaché à 30% au CSP Numérique Recherche 
+  - Accompagnement à la gestion des données de la recherche
+  - Formation école doctorale
+    - Humanités Numérique / Tropy
+    - Humanités Numérique / Nettoyage des données
+    - Humanités Numérique / Huma-Num : Trouver son consortium et utiliser les outils
+
+### Mon Site perso
+
+<https://uju-export.netlify.app>
+
+## RRCHNM
+
+::: {style="background-color:dimgrey;text-align:center"}
+![[Roy Rosenzweig Center for History and New Media](https://rrchnm.org)](https://rrchnm.org/wp-content/uploads/2022/07/RRCHNM-logo-whiteBG-v2.png){fig-alt="Roy Rosenzweig Center for History and New Media logo" fig-align="center"}
+:::
+
+-   [Zotero](https://www.zotero.org) (gestion de références bibliographiques)
+-   [Tropy](https://tropy.org) (gestion de corpus iconographiques)
+-   [Omeka](https://omeka.org) (publication de documents numériques)
+
+Aujourd'hui développés et maintenus par la [Corporation for Digital Scholarship](https://digitalscholar.org) (*Digital Scholar*)
+
+### THATCamp -- Principes
+
+*The Humanities and Technology Camp*
+
+Inspiré des BarCamps, un THATCamp est une non-conférence sur les humanités numériques 
+
+### THATCamp en France
+
+- [THATCamp Paris 2010](https://tcp.hypotheses.org/category/thatcamp-paris-2010) : *Manifeste des Digital Humanities*
+
+- THATCamp Paris 2012 -- [Non-actes de la non-conférence des humanités numériques](https://books.openedition.org/editionsmsh/278)
+- THATCamp Saint-Malo 2013 -- [*Non actes de la non conférence*](https://books.openedition.org/editionsmsh/2181?lang=fr)
+  - Assemblée Générale de création de [Humanistica](https://www.humanisti.ca)
+- THATCAMP Lyon 2014
+- THATCamp
+
+## Personnes
+
+### Franziska Heimburger
+
+- La boîte à outils des historien·ne·s
+
+### Frédéric Clavert
+
+### Antoine Courtin
+
+- GLAM
+
+### Marlène Delhaye
+
+### Emmanuelle Bermès
+
+- figoblog
+- Web sémantique et bibliothèque
+- Master TNAH de l'école des Chartes
+
+### Robin de Mourat
+
+### Antoine Fauchié
+
+- [Déb/u/o/gue tes humanités](https://debugue.ecrituresnumeriques.ca)
+
+### Julie Blanc
+
+- Site perso <https://julie-blanc.fr>
+
+- paged.js
+
+- Thèse en ligne
+
+### Arthur Perret
+
+### Julien Bidoret
+
+## Outils
+
+### OpenRefine
+
+### Pandoc 
+
+### Quarto
+
+## Réseaux
+
+### Huma-Num
+
+- consortia
+
+- Documentation
+
+### Inachevé d'Imprimé
+
+## Ressources
+
+### éditions
+
+- Abrüpt
+- C&F
+- Le Louvre éditions
+
+### Revues
+
+- Humanités Numériques
+
+### Blogs
+
+- Aurore Turbiau

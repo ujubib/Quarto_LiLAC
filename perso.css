@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+h1, h2, h3, h4, h5, h6, .subtitle {
+    font-family: B612 !important;
+    /* font-weight: 600 !important;
+    letter-spacing:-1px !important; */
+    text-transform: none !important;
+    color: Brown !important;
+}
+
+strong {
+  color: black !important;
+}
+
+h1.title {
+    font-size: 2em !important;
+}
+
+section li {
+    list-style-type: "✦ ";
+}
+
+section li li {
+    list-style-type: "✧ ";
+}
+
+.subtitle {
+  font-size: 1.2em !important;
+}
+
+.date {
+    color:brown;
+}
+
+.smaller {
+    font-size:0.8em;
+}
+

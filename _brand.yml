@@ -1,0 +1,14 @@
+logo: 
+  small: iamges/logoUPPA-RepFr.png
+  medium: iamges/logoUPPA-RepFr.png
+  large: iamges/logoUPPA-RepFr.png
+
+typography:
+  fonts:
+    - family: "Atkinson Hyperlegible"
+      source: google
+    - family: B612
+      source: google
+  base: "Atkinson Hyperlegible"
+  headings: B612
+  
